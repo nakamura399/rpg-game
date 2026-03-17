@@ -26,6 +26,6 @@ Pythonで作成したターミナル型RPGゲームです。
 python rpg.py
 ```
 
-![ゲーム画面](images/game.png)
+![ゲーム画面](画像/game.png)
 
 ---
