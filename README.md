@@ -24,3 +24,8 @@ Pythonで作成したターミナル型RPGゲームです。
 
 ```bash
 python rpg.py
+```
+
+![ゲーム画面](images/game.png)
+
+---
